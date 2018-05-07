@@ -1,0 +1,153 @@
+---
+layout: null
+title: Project Hustle
+description: Hustling is my hobby.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<html>
+	<head>
+    {% include head.html %}
+    <style>
+	
+	img:hover {
+			 -moz-transform: scale(1.05);
+			 -webkit-transform: scale(1.05);
+			 -ms-transform: scale(1.05);
+			 transform: scale(1.05);
+			}
+    </style>
+	
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+				<div id="intro">
+            <h1>Project Hustle</h1>
+						<h2>Hustling is my hobby.</h2>
+
+						<p>Specifically, self-developmental / boundary-pushing <b>side hustles</b> and <b>life projects</b>.</p>
+						
+						<p>Welcome, have fun, and say hi at <a href="mailto:{{site.email}}">{{site.email}}</a>.</p>
+						
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+				<header id="header">
+					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+				</header>
+
+			<!-- Nav -->
+			<nav id="nav">
+
+            {% include nav.html %}
+            	<!--
+				<ul class="icons">
+	              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+	              <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
+	              
+	              <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+	              <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+				  
+				</ul>
+				-->
+			</nav>
+
+			<!-- Main -->
+			<div id="main">
+          	<article class="post featured">
+           
+            <header class="major">           
+
+            </header> 
+
+			<div class="row 50% uniform">
+				<div class="6u"><span class="image fit"><a href="/travel"><img src="blog/images/travel writing.jpeg" alt="" /></a></span></div>
+				<div class="6u"><span class="image fit"><a href="/productivity"><img src="blog/images/productivity copy.jpg" alt="" /></a></span></div>
+			</div>   
+			<div class="row 50% uniform">
+				<div class="6u"><span class="image fit"><a href="/life"><img src="blog/images/life copy.jpg" alt="" /></a></span></div>
+				<div class="6u"><span class="image fit"><a href="/career"><img src="blog/images/career-black.jpg" alt="" /></a></span></div>
+			
+			</div>    
+          	</article>
+
+			<!-- Post -->
+			<section class="posts">
+				{% for post in site.posts limit:18 %}
+				{% assign mod3 = forloop.index | modulo: 3 %}
+					<article>
+						<header>
+							<!-- <span class="date">{{ post.date | date_to_string }}</span> -->
+							<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+						</header>
+						<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.f-image | absolute_url }}" alt="" /></a>
+						
+						<p>{{ post.description }}</p>
+						
+						<ul class="actions">
+							<li><a href="{{ post.url | absolute_url }}" class="button">Read</a></li>
+						</ul>
+					</article>
+				{% endfor %}
+
+			</section>
+
+				<!-- Featured Posts
+				<section class="posts">
+                {% for post in site.posts limit:3 %}
+                		{% assign mod3 = forloop.index | modulo: 3 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  									</ul>
+  								</article>
+                  		{% if mod3 == 0 %}
+                  		<article>
+							<header>
+								<h2><a href="#">Sponsored</h2>
+							</header>
+
+  						</article>
+                 		{% endif %}
+                {% endfor %}
+				</section> 
+
+				-->
+				<!-- Footer -->
+				<footer>
+	                <ul class="actions">
+	                  <li><a href="{{ "/about" | absolute_url }}" class="button">All Blog Posts</a></li>
+	                </ul>
+				</footer>
+
+		</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+	</div>
+
+	<!-- Scripts -->
+	{% include scripts-main.html %}
+
+
+    {% include tracking.html %}
+
+	</body>
+</html>
