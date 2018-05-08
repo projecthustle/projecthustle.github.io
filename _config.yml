@@ -51,7 +51,7 @@ phone:              Email me :P
 email:              neha@projecthustle.org
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
