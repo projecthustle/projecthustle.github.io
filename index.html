@@ -10,47 +10,36 @@ sitemap:
 <!DOCTYPE HTML>
 <html>
 	<head>
-    {% include head.html %}
-    <style>
-	
-	img:hover {
-			 -moz-transform: scale(1.05);
-			 -webkit-transform: scale(1.05);
-			 -ms-transform: scale(1.05);
-			 transform: scale(1.05);
-			}
-    </style>
-	
+    	{% include head.html %}
 	</head>
 	<body class="is-loading">
 
 		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+		<div id="wrapper" class="fade-in">
 
 				<!-- Intro -->
 				<div id="intro">
-            <h1>Project Hustle</h1>
-						<h2>Hustling is my hobby.</h2>
+            		<h1>Project Hustle</h1>
+					<h2>Hustling is my hobby.</h2>
 
-						<p>Specifically, self-developmental / boundary-pushing <b>side hustles</b> and <b>life projects</b>.</p>
-						
-						<p>Welcome, have fun, and say hi at <a href="mailto:{{site.email}}">{{site.email}}</a>.</p>
-						
-						<ul class="actions">
-							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
-						</ul>
-					</div>
+					<p>Specifically, self-developmental / boundary-pushing <b>side hustles</b> and <b>life projects</b>.</p>
+					
+					<p>Welcome, have fun, and say hi at <a href="mailto:{{site.email}}">{{site.email}}</a>.</p>
+					
+					<ul class="actions">
+						<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+					</ul>
+				</div>
 
-				<!-- Header -->
-				<header id="header">
-					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-				</header>
+			<!-- Header -->
+			<header id="header">
+				<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+			</header>
 
 			<!-- Nav -->
 			<nav id="nav">
-
-            {% include nav.html %}
-            	<!--
+            	{% include nav.html %}
+            	<!-- SOCIAL MEDIA ICONS IN NAV BAR
 				<ul class="icons">
 	              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
 	              <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
@@ -64,89 +53,137 @@ sitemap:
 
 			<!-- Main -->
 			<div id="main">
-          	<article class="post featured">
+          		<article class="post featured">
            
-            <header class="major">           
+	           		<header class="major">           
 
-            </header> 
+	            	</header> 
+ 
+          		</article>
 
-			<div class="row 50% uniform">
-				<div class="6u"><span class="image fit"><a href="/travel"><img src="blog/images/travel writing.jpeg" alt="" /></a></span></div>
-				<div class="6u"><span class="image fit"><a href="/productivity"><img src="blog/images/productivity copy.jpg" alt="" /></a></span></div>
-			</div>   
-			<div class="row 50% uniform">
-				<div class="6u"><span class="image fit"><a href="/life"><img src="blog/images/life copy.jpg" alt="" /></a></span></div>
-				<div class="6u"><span class="image fit"><a href="/career"><img src="blog/images/career-black.jpg" alt="" /></a></span></div>
-			
-			</div>    
-          	</article>
-
-			<!-- Post -->
+			<!-- CATEGORY ORDER MANUALLY SPECIFIED WITH POSTS & DESCRIPTIONS LISTED UNDERNEATH -->
 			<section class="posts">
-				{% for post in site.posts limit:18 %}
-				{% assign mod3 = forloop.index | modulo: 3 %}
-					<article>
-						<header>
-							<!-- <span class="date">{{ post.date | date_to_string }}</span> -->
-							<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
-						</header>
-						<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.f-image | absolute_url }}" alt="" /></a>
-						
-						<p>{{ post.description }}</p>
-						
-						<ul class="actions">
-							<li><a href="{{ post.url | absolute_url }}" class="button">Read</a></li>
-						</ul>
-					</article>
-				{% endfor %}
+				{% assign mod2 = forloop.index | modulo: 2 %}
+				
+				<!-- CATEGORY | FITNESS -->
+				<article align="left">
+					<header>
+						<h2 class="category-head">Project: Fitness</h2>
+						<p>Fitness</p>		
+					</header>
+						{% for post in site.categories.fitness %}
+					 	<li align="left" style="font-size:13px">&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+						{% endfor %}
+				</article>
+
+				<!-- CATEGORY | PRODUCTIVITY -->
+				<article align="left">
+					<header>
+						<h2 class="category-head">Project: Productivity</h2>
+						<p>Productivity</p>		
+					</header>
+						{% for post in site.categories.productivity %}
+					 	<li align="left" style="font-size:13px">&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+						{% endfor %}
+				</article>	
+
+				<!-- CATEGORY | TRAVEL -->
+				<article align="left">
+					<header>
+						<h2 class="category-head">Project: Travel</h2>
+						<p>Travel</p>		
+					</header>
+						{% for post in site.categories.travel %}
+					 	<li align="left" style="font-size:13px">&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+						{% endfor %}
+				</article>
+
+				<!-- CATEGORY | CODING -->
+				<article align="left">
+					<header>
+						<h2 class="category-head">Project: Coding</h2>
+						<p>Coding</p>		
+					</header>
+						{% for post in site.categories.fitness %}
+					 	<li align="left" style="font-size:13px">&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+						{% endfor %}
+				</article>
+
+				<!-- CATEGORY | CAREER -->
+				<article align="left">
+					<header>
+						<h2 class="category-head">Project: Post-Grad Career</h2>
+						<p>Career</p>		
+					</header>
+						{% for post in site.categories.career %}
+					 	<li align="left" style="font-size:13px">&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+						{% endfor %}
+				</article>
+
+				<!-- CATEGORY | LIFE -->
+				<article align="left">
+					<header>
+						<h2 class="category-head">Project: Life Perspective</h2>
+						<p>Life</p>		
+					</header>
+						{% for post in site.categories.life %}
+					 	<li align="left" style="font-size:13px">&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+						{% endfor %}
+				</article>
 
 			</section>
 
-				<!-- Featured Posts
-				<section class="posts">
-                {% for post in site.posts limit:3 %}
-                		{% assign mod3 = forloop.index | modulo: 3 %}
-  								<article>
-  									<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
-  									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-  									</ul>
-  								</article>
-                  		{% if mod3 == 0 %}
-                  		<article>
-							<header>
-								<h2><a href="#">Sponsored</h2>
-							</header>
+			<!-- RANDOM CATEGORIES ORGANIZED IN BOXES WITH POSTS & DESCRIPTION LISTED UNDERNEATH -->
+			<!--
+			<section class="posts">
+				{% for category in site.categories %}
+				{% assign mod2 = forloop.index | modulo: 2 %}
+			<article align="left">
+				<header>
+					{% capture category_name %}{{ category | first }}{% endcapture %}		
+					<h2 class="category-head">Project: {{ category_name }}</h2>
+					<a name="{{ category_name | slugize }}"></a>
 
-  						</article>
-                 		{% endif %}
-                {% endfor %}
-				</section> 
+					{% if category_name contains "travel" %}
+					<p>Travel</p>
+					{% elsif category_name contains "life" %}
+					<p>Life</p>
+					{% elsif category_name contains "productivity" %}
+					<p>Productivity</p>
+					{% elsif category_name contains "career" %}
+					<p>Career</p>			
+					{% endif %}			
+				</header>
+					{% for post in site.categories[category_name] %}
+					<li align="left" style="font-size:13px"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+				    	{% endfor %}
 
-				-->
-				<!-- Footer -->
-				<footer>
-	                <ul class="actions">
-	                  <li><a href="{{ "/about" | absolute_url }}" class="button">All Blog Posts</a></li>
-	                </ul>
-				</footer>
+				    
+					<p>{{ post.description }}</p>
+					<ul class="actions">
+						<li><a href="{{ post.url | absolute_url }}" class="button">Read</a></li>
+					</ul>
+			</article>
+			{% endfor %}
+			</section>
+			-->
 
-		</div>
+			<!-- Footer -->
+			<footer>
+		        <ul class="actions">
+		          <li><a href="{{ "/blog" | absolute_url }}" class="button">All Posts</a></li>
+		        </ul>
+			</footer>
 
-				<!-- Footer -->
-        {% include foot.html %}
+			</div>
+
+			<!-- Footer -->
+		    {% include foot.html %}
 
 	</div>
 
 	<!-- Scripts -->
 	{% include scripts-main.html %}
-
-
     {% include tracking.html %}
 
 	</body>

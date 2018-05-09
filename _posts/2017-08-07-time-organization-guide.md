@@ -3,10 +3,10 @@ layout: post
 title: "Guide on Organizing Time"
 description: "Controlling time & an incredibly busy schedule."
 date: 2017-08-07
-tags: [organization/productivity]
+tags: [productivity]
 comments: true
 share: true
-category: organization/productivity
+category: productivity
 permalink: /time-organization-guide/
 f-image: /images/posts/featured/time.jpg
 ---

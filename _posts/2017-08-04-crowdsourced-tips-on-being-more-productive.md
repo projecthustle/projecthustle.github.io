@@ -3,11 +3,11 @@ layout: post
 title: "The Most Useful Productivity Insights I've Come Across"
 description: "A curated list of the best productive tips I've gotten."
 date: 2017-08-04
-tags: [organization/productivity]
+tags: [productivity]
 comments: true
 share: true
 permalink: /the-most-useful-productivity-insights-ive-come-across
-category: organization/productivity
+category: productivity
 f-image: /images/posts/featured/crowd-prod.jpg
 
 ---

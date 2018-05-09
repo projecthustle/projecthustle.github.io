@@ -3,10 +3,10 @@ layout: post
 title: "The 999th Productivity Guide The Internet Has But Never Wanted"
 description: "The most comprehensive productivity guide you'll come across on the interwebs."
 date: 2018-01-24
-tags: [organization/productivity]
+tags: [productivity]
 comments: true
 share: true
-category: organization/productivity
+category: productivity
 permalink: /productivity-guide/
 f-image: /images/posts/featured/productivity.jpg
 featured: yes

@@ -7,7 +7,7 @@ tags: [travel - world]
 comments: true
 share: true
 f-image: /images/posts/featured/travel.jpg
-category: life
+category: travel
 permalink: /photos/
 
 ---

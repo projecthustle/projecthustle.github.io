@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 f-image: /images/posts/featured/books.jpg
-category: life
+category: reading
 ---
 
 ## Books I've Read

@@ -3,11 +3,11 @@ layout: post
 title: "Note Organization Guide - Organizing the Million Notes You Have"
 description: "The best under-10-second note retrieval & organization system that's worked for me so far."
 date: 2017-05-10
-tags: [organization/productivity]
+tags: [productivity]
 comments: true
 share: true
 f-image: /images/posts/featured/notes.jpg
-category: organization/productivity
+category: productivity
 permalink: /note-organization-guide/
 ---
 
