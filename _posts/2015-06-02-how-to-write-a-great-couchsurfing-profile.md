@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 f-image: /images/posts/featured/profile.jpg
-category: travel
+category: couchsurfing
 ---
 
 __This is Part 4 of the 8-part Beginner's Guide to Couchsurfing:__

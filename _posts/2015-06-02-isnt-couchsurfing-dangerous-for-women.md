@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 f-image: /images/posts/featured/women.jpg
-category: travel
+category: couchsurfing
 permalink: /travel/is-couchsurfing-safe-for-women/
 ---
 

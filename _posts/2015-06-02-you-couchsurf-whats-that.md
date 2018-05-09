@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 f-image: /images/posts/featured/couch.jpg
-category: travel
+category: couchsurfing
 permalink: /travel/what-is-couchsurfing/
 featured: yes
 

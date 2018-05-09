@@ -9,7 +9,7 @@ share: true
 published: true
 future: true
 f-image: /images/posts/featured/safe.jpg
-category: travel
+category: couchsurfing
 ---
 
 __This is Part 7 of the 8-part Beginner's Guide to Couchsurfing:__

@@ -9,7 +9,7 @@ share: true
 published: true
 future: true
 f-image: /images/posts/featured/g-request.jpg
-category: travel
+category: couchsurfing
 ---
 
 __This is Part 6 of the 8-part Beginner's Guide to Couchsurfing:__
