@@ -26,6 +26,7 @@ featured: yes
 	<p style="color:red; font-size:12px; margin-top: -1em;"><i>(Bottom 25% of all books read)</i></p>
 	</div>
 </div>	
+
 ----
 
 ## Book Summary
@@ -109,7 +110,7 @@ But you're not them. You stop when you _decide_ to stop, when you say it's over.
 		<h3>Read If You...</h3>
 		<ul class="alt">
 			<li>Feel complacent or that you could be doing more with your time.</li>
-			<li>Are looking for yell-y self-help-y 'you can be better' type rhetoric.</li>
+			<li>Are looking for patronizing, self-helpy <i>'be better'</i> rhetoric.</li>
 			<li>Need someone to lecture you about how important hard work is.</li>
 		</ul>
 
@@ -133,13 +134,11 @@ I read ~1-3 books a month and it's pretty rare for me to identify a book as bein
 
 _Dear God this was so bad._
 
-The _idea_ behind the book is great and incredibly motivating. But Tim Grover's book on achieving this state is so bad, it's almost comical. He does the arrogant, self-help-y thing of describing a set of "weaker people" and a set of "ideal people", defining arbitrary definitions of them (which, of course, he's clear to point out also describe himself), and suggesting most all successful people fit this arbitrary mold of self-centered, go-getter type personalities. 
+The _idea_ behind the book is great and incredibly motivating. But Tim Grover's book on achieving this state is so bad, it's almost comical. He does the arrogant, self-help-y thing of describing a set of "weaker people" and a set of "ideal people", defining arbitrary definitions of them (which, of course, he's clear to point out also describe himself), and suggesting most all successful people fit this arbitrary mold of self-centered, macho, go-getter type personalities. 
 
 Don't get me wrong: We all should be relentless in one way or the other. But Grover's book is just a really bad way of getting this point across - with a lot of fluff and not much to show for it. 
 
 The book's novel content could probably be condensed to ~5% of the number of pages, and the quality content to perhaps ~10% of the number of pages. 
 
-__If you feel complacent in your life:__ Listen to it at 2x speed (~2.75 hours) while doing errands so you don't waste time on it but still get the message.
-
-Otherwise, definitely not a cover-to-cover read. 
+__If you feel complacent in your life:__ Listen to it at 2x speed (~2.75 hours) while doing errands so you don't waste time, but still get the message. Otherwise, definitely not a cover-to-cover read. 
 
