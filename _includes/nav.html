@@ -1,12 +1,11 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
   <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
+  <li class="{% if page.url contains '/archive/' %} active {% endif %}"><a href="{{ "/archive" | absolute_url }}">Archive</a>
   <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
-  <li class="{% if page.url contains '/perspective/' %} active {% endif %}"><a href="{{ "/archive" | absolute_url }}">Archive</a>
   <!--
   <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/photos" | absolute_url }}">Photos</a>-->
   <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/travel" | absolute_url }}">Couchsurfing</a>
-  <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/productivity" | absolute_url }}">Productivity</a>
   <li class="{% if page.url contains '/like/' %} active {% endif %}"><a href="{{ "/subscribe" | absolute_url }}"><font color="#FF7F00">Like This?</font></a></li>
   </li>
 </ul>

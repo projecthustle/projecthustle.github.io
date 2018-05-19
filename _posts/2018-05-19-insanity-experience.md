@@ -7,7 +7,7 @@ tags: [fitness]
 comments: true
 share: true
 published: true
-f-image: /images/*fitness*/insanity-min.jpg
+f-image: /images/posts/featured/insanity-min.jpg
 category: fitness
 ---
 
