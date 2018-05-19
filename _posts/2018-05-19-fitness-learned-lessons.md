@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Fitness | A Beginner's Learned Lessons, Getting into Fitness"
+title: "Fitness | A Beginner's Learned Lessons Getting into Fitness"
 description: "Lessons learned after 3 months into a daily fitness routine."
 date: 2018-05-19
 tags: [fitness]
 comments: true
 share: true
 published: true
-f-image: /images/*fitness*/insanity-min.jpg
+f-image: /images/*fitness*/learned-lessons-min.jpg
 category: fitness
 ---
 

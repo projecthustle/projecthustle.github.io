@@ -3,7 +3,7 @@ layout: post
 title: "Book Insights | Relentless"
 description: ""
 date: 2018-05-09
-tags: [reading, career]
+tags: [reading]
 comments: true
 share: true
 category: reading
