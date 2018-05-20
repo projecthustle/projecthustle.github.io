@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Book Insights | Relentless"
+layout: page
+title: "Book Insights | Relentless: From Good to Great to Unstoppable"
 description: ""
 date: 2018-05-09
 tags: [reading]
@@ -142,3 +142,4 @@ The book's novel content could probably be condensed to ~5% of the number of pag
 
 __If you feel complacent in your life:__ Listen to it at 2x speed (~2.75 hours) while doing errands so you don't waste time, but still get the message. Otherwise, definitely not a cover-to-cover read. 
 
+{% include book.html %}
