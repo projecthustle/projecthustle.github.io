@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Book Insights | Relentless: From Good to Great to Unstoppable"
+title: "Book Insights & Summary | Relentless: From Good to Great to Unstoppable"
 description: ""
 date: 2018-05-09
 tags: [reading]
