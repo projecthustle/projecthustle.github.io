@@ -41,25 +41,29 @@ __Future Plans / Future Trajectory__ . . . or in other words, how to maximize th
 
 ## Random List of Cool Things I've Done
 
+* [Backpacked 30 countries & 6 continents!]({% post_url 2017-06-02-footsteps %}){:target="_blank"} 
 * Camped on the Great Wall of China
-* Hiked to the top of a volcano in snow and hail (Scotland)
-* Attended London's crazy New Year's Eve countdown + celebration
+* (Almost died) hiking to the top of a volcano in snow and hail (Scotland) 😕
+* Watched the New Year's countdown in the heart of London's crazy 😮
 * Ate at the coffee shop where J.K. Rowling authored Harry Potter
 * Celebrated St. Patrick’s Day in Dublin, Ireland (craaaazy...)
-* Played underwater hockey
+* Underwater hockey!
 * Got bit by a dog in Jamaica 😕
 * Met HONY's Brandon Stanton 
 * Studied at Oxford University
-* [Traveled to 30 countries & 6 continents]({% post_url 2017-06-02-footsteps %}){:target="_blank"} and will be traveling to the last few countries I want to see before settling down and starting work at Microsoft.
 * Scuba-dived (twice!) the Great Barrier Reef (Sydney, Australia)
-* Took a crazy year off to further explore personal improvement, volunteerism, and traveling
+* Took a crazy year off to further explore personal improvement, community service, fitness, and traveling
 
 <div align="center"><a href="#" class="image main"><img src="/images/about-page/8-mo.png" style="max-width:700px" alt="" /></a></div>
 
-## Random List of Cool Things I Wish To Do
+## Random List of Cool Things I Want To Do
 
 * P90X
-* Avoid *all forms* of added sugar for at least 3 months
-* Run an online business
+* Run an online business (for fun / as a side-hustle)
+* Spend the majority of my life pursuing a mission
+* Build a six pack / be toned af :P
+* Sugar self-control challenge - Avoid *all forms* of added sugar for at least 3 months
+* Eventually transition to a diet of totally wholesome food & actually be in love with that way of eating
+
 
 
