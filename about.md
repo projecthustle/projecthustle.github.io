@@ -27,7 +27,7 @@ Welcome, have fun, and if you see something you like, feel free to email me ({{s
 
 ## About Me
 
-<div align="center"><a href="#" class="image main"><img src="/images/posts/friends.jpg" style="max-width:400px" alt="" /></a></div>
+<div align="center"><a href="#" class="image main"><img src="/images/posts/friends.jpg" style="max-width:600px" alt="" /></a></div>
 
 ### I spend a lot of time thinking about
 
