@@ -7,7 +7,7 @@ tags: [reading]
 comments: true
 share: true
 category: reading
-f-image: /images/posts/books/born-a-crime/born-a-crime-feat-min.png
+f-image: /images/posts/featured/books/born-a-crime.png
 featured: yes
 
 ---
@@ -34,6 +34,43 @@ featured: yes
 * It's funny, touching, and full of insights on racism, life, and parenting.
 
 --- 
+
+<div align="center"><a href="#" class="image main"><img src="/images/posts/books/born-a-crime/born-a-crime.jpg" style="max-width:200px" alt="" /></a></div>
+
+## Verdict
+
+<div class="row">
+	<div class="6u 12u$(small)">
+
+		<h3>Read If You...</h3>
+		<ul class="alt">
+			<li>Love storytelling as a way of conveying life lessons</li>
+			<li>Love comedy!</li>
+			<li>Seek to better understand racism in a multi-national context</li>
+		</ul>
+
+	</div>
+	<div class="6u$ 12u$(small)">
+
+		<h3>Avoid If You...</h3>
+		<ul>
+			<li>Prefer dense, non-autobiographical non-fiction.</li>
+		</ul>
+
+	</div>
+</div>
+
+---
+
+## Personal Opinion
+
+LOVED this book. 
+
+I'd *highly* recommend listening to the audiobook instead of reading it, because Trevor does an amazing job narrating the story and different characters. Also feels way more real and personal, like you're having a conversation with Trevor himself.
+
+There are very few people I _wouldn't_ recommend it to. 
+
+---
 ## Insights 
 
 <p style=" font-size: 18px; font-weight: bold; ">Regret is the thing we should fear the most.</p>
@@ -95,40 +132,5 @@ featured: yes
 > “But he’s a scientist.”
 > “In Mexican science, maybe. I don’t trust him.”
 > However, if the person who doesn’t look like you speaks like you, your brain short-circuits because your racism program has none of those instructions in the code. “Wait, wait,” your mind says, “the racism code says if he doesn’t look like me he isn’t like me, but the language code says if he speaks like me he…is like me? Something is off here. I can’t figure this out.”
-
----
-
-<div align="center"><a href="#" class="image main"><img src="/images/posts/books/born-a-crime/born-a-crime-min.jpg" style="max-width:200px" alt="" /></a></div>
-
-## Verdict
-
-<div class="row">
-	<div class="6u 12u$(small)">
-
-		<h3>Read If You...</h3>
-		<ul class="alt">
-			<li>Love storytelling as a way of conveying life lessons</li>
-			<li>Love comedy!</li>
-			<li>Seek to better understand racism in a multi-national context</li>
-		</ul>
-
-	</div>
-	<div class="6u$ 12u$(small)">
-
-		<h3>Avoid If You...</h3>
-		<ul>
-			<li>Prefer dense, non-autobiographical non-fiction.</li>
-		</ul>
-
-	</div>
-</div>
-
-
-## Personal Opinion
-LOVED this book. 
-
-I'd *highly* recommend listening to the audiobook instead of reading it, because Trevor does an amazing job narrating the story and different characters. Also feels way more real and personal, like you're having a conversation with Trevor himself.
-
-There are very few people I _wouldn't_ recommend it to. 
 
 {% include book.html %}
