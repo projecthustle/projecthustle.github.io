@@ -20,7 +20,7 @@ Everyone has a hobby. My hobby is side-hustling and working on life projects - c
 
 In September 2015, I published [The Official Couchsurfing Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"} which went viral within the Couchsurfing community. 
 
-Now, back to a modest 10-20 daily visitors, this site is focused on exploring various life projects - from giving TEDx talks to getting fit. 
+Now, back to a modest 40 subscribers and 10-20 daily visitors, this site is focused on exploring various life projects - from giving TEDx talks to getting fit. 
 
 Welcome, have fun, and if you see something you like, feel free to email me ({{site.email}})! I love meeting & connecting with people. I live in Dallas, TX + love meeting people so if you're in the area, reach out.
 
