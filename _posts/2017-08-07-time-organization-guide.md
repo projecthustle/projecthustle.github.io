@@ -2,7 +2,7 @@
 layout: post
 title: "Guide on Organizing Time"
 description: "Controlling time & an incredibly busy schedule."
-date: 2017-08-07
+date: 2018-05-20
 tags: [productivity]
 comments: true
 share: true

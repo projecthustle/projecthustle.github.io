@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Fitness | My Experience Doing Insanity - 63 Day Workout Challenge"
+title: "My Experience Doing Insanity: 63 Day Workout Challenge"
 description: "After the first 2 months of Insanity / getting fit, these are my learned lessons."
 date: 2018-05-19
 tags: [fitness]
 comments: true
 share: true
 published: true
-f-image: /images/posts/featured/insanity-min.jpg
+f-image: /images/posts/featured/insanity.jpg
 category: fitness
 ---
 

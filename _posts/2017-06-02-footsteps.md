@@ -2,7 +2,7 @@
 layout: post
 title: "Photos From 6 Continents & 30 Countries Abroad"
 description: "Where I've been and photos of travel."
-date: 2018-01-28
+date: 2018-01-29
 tags: [travel - world]
 comments: true
 share: true

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Book Insights & Summary | Born a Crime: Stories from a South African Childhood by Trevor Noah"
+title: "Book Insights & Summary | Born a Crime by Trevor Noah"
 description: ""
-date: 2018-05-20
+date: 2018-05-11
 tags: [reading]
 comments: true
 share: true
 category: reading
-f-image: /images/posts/featured/books/born-a-crime.png
+f-image: /images/posts/featured/books/born-a-crime.jpg
 featured: yes
 
 ---

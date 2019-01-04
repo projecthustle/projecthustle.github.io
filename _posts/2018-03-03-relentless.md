@@ -7,7 +7,7 @@ tags: [reading]
 comments: true
 share: true
 category: reading
-f-image: /images/posts/relentless.png
+f-image: /images/posts/featured/books/relentless.jpg
 featured: yes
 
 ---

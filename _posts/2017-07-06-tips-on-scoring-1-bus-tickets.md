@@ -2,7 +2,7 @@
 layout: post
 title: "Tips on Scoring $1 Bus Tickets"
 description: "Tips on finding coveted $1 bus tickets."
-date: 2017-11-16
+date: 2014-03-09
 tags: [travel - bus]
 comments: true
 share: true

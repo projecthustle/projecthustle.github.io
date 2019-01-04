@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Books I've Read and The 6 I'd Recommend"
+title: "Book Tracking & Recommendations"
 description: "A curated list of the books I'd recommend."
-date: 2017-07-18
+date: 2017-08-04
 tags: [reading]
 comments: true
 share: true
 published: true
 f-image: /images/posts/featured/books.jpg
+permalink: /books
 category: reading
 ---
 
@@ -32,6 +33,7 @@ category: reading
 * Give and Take
 * Guns, Germs, & Steel
 * Harry Potter Series
+* Hillbilly Elegy
 * How Google Works
 * How Successful People Think (John Maxwell)
 * How to Be a High School Superstar
@@ -61,15 +63,18 @@ category: reading
 * The Power of Now
 * The Shack
 * The Subtle Art of Not Giving a Fuck
+* The Virgin Way
 * The 4-Hour Workweek
 * Things I Wish My Mother Had Told Me
 * Think Like a Freak: The Authors of Freakonomics Retrain Your Brain
+* Unbroken
 * What Color is Your Parachute?
 * What Every BODY is Saying
 * Why Marriages Succeed and Fail
 * Why Nations Fail
 * Why We Get Fat
 * Willpower Instinct
+* Yes, Please
 
 ## The Favorites
 

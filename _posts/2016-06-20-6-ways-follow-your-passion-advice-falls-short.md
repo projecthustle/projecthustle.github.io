@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "6 Ways Advice To 'Follow Your Passion' Falls Short for Millenials"
+title: "Ways Advice To 'Follow Your Passion' Falls Short for Millenials"
 description: "How the advice to 'follow your passion' falls short."
-date: 2017-11-05
+date: 2017-08-07
 tags: [career]
 comments: true
 share: true

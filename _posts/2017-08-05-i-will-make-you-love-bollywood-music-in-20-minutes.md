@@ -2,7 +2,7 @@
 layout: post
 title: "Love Bollywood Music in 20 Minutes"
 description: "An introduction to Bollywood music via curated playlists"
-date: 2015-08-05
+date: 2014-08-05
 tags: [random]
 comments: true
 share: true

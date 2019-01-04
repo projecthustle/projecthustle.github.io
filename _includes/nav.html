@@ -5,7 +5,10 @@
   <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
   <!--
   <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/photos" | absolute_url }}">Photos</a>-->
-  <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/travel" | absolute_url }}">Couchsurfing</a>
+  <!--<li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/travel" | absolute_url }}">Couchsurfing</a>-->
+  <li class="{% if page.url contains '/fitness/' %} active {% endif %}"><a href="{{ "/fitness-tracking" | absolute_url }}">Fitness</a></li>
+  <li class="{% if page.url contains '/meditation/' %} active {% endif %}"><a href="{{ "/meditation-tracking" | absolute_url }}">Meditation</a></li>
+  <li class="{% if page.url contains '/books/' %} active {% endif %}"><a href="{{ "/books" | absolute_url }}">Books</a></li>
   <li class="{% if page.url contains '/like/' %} active {% endif %}"><a href="{{ "/subscribe" | absolute_url }}"><font color="#FF7F00">Like This?</font></a></li>
   </li>
 </ul>
