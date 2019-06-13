@@ -40,10 +40,6 @@ The second month's workouts are killer; about 1 hour - 1.5 hour workouts at a mu
 
 ## What Were Your Results Like?
 
-**Visual Results**
-
-<div align="center"><a href="#" class="image main"><img src="/images/*fitness*/insanity-min.png" style="max-width:500px" alt="" /></a></div>
-
 **Endurance & Strength**
 Every 2 weeks, you take a Fit Test, where you try to do as many sets of certain exercises in a 1 minute time interval.  
 
