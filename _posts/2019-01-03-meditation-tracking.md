@@ -6,7 +6,7 @@ date: 2019-01-03
 tags: [fitness]
 comments: true
 share: true
-published: true
+published: false
 f-image: /images/posts/featured/meditation.jpeg
 permalink: /meditation-tracking
 category: fitness
