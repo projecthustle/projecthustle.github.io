@@ -6,7 +6,7 @@ date: 2018-05-19
 tags: [fitness]
 comments: true
 share: true
-published: true
+published: false
 f-image: /images/posts/featured/insanity.jpg
 category: fitness
 ---
