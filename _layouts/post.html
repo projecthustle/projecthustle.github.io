@@ -12,8 +12,10 @@
         <header id="header">
           <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
 
-          <!-- Mailchimp pop-up -->
+          <!-- Mailchimp pop-up 
           <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us18.list-manage.com","uuid":"2c167ae7f415e5b31d6c01123","lid":"357afa7bae"}) })</script>
+
+          -->
         </header>
 
 				<!-- Nav -->
@@ -46,8 +48,9 @@
       			<p>{{content}}</p>
       		</section>
 
-          {% include postnotes.html %}
 <!--
+          {% include postnotes.html %}
+
           <div class="comments-wrapper">
           <div id="disqus_thread"></div>
           <script>
