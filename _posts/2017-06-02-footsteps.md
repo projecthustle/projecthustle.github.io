@@ -121,7 +121,7 @@ This photo above was taken somewhere on the [autobahn](https://en.wikipedia.org/
 
 Exploring the Colosseum (Rome, Italy). 
 
-<div align="center"><a href="#" class="image main"><img src="/images/about-page/colosseum.jpg" style="max-width:800px" alt="" /></a></div>
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/colosseum.jpg" style="max-width:800px" alt="" /></a></div>
 
 -------
 
