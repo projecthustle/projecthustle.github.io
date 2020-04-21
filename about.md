@@ -9,35 +9,53 @@ sitemap:
     changefreq: weekly
 ---
 
-## About the Site
+## About
 
-Welcome to Project Hustle! 
+My name is Neha -- welcome to Project Hustle! 
+ 
+Everyone has a hobby. My hobby, broadly speaking, is exploring various life projects and challenges in an attempt to improve myself -- from technical skills to fitness challenges.
 
-Everyone has a hobby. My hobby is side-hustling and working on life projects - challenges designed to finish within a set period of time. 
+This site is dedicated to exploring these projects, learnings, and musings. 
 
-This site is dedicated to exploring various life projects and musings. 
+### Let's Chat
 
+I'm always happy to hear from folks and if you're in the Bay Area, always happy to meet up for coffee.
+
+
+Welcome, have fun, and if you see something you like, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nehakulkarni1/){:target="_blank"}, [Twitter](https://twitter.com/heynehak){:target="_blank"}, or [Facebook](https://www.facebook.com/neha778899){:target="_blank"}.
+
+I love meeting & connecting with people. I live in the San Francisco Bay Area and love meeting people so if you're in the neighborhood, reach out.
 
 ## About Me
+<div align="center"><a href="#" class="image main"><img src="/images/about-page/neha.jpeg" style="max-width:400px" alt="" /></a></div>
 
-<div align="center"><a href="#" class="image main"><img src="/images/posts/friends.jpg" style="max-width:600px" alt="" /></a></div>
+### Education
 
-### I spend a lot of time thinking about
+I graduated from Johns Hopkins University and also studied briefly at Oxford University as a visiting student. 
 
-__Personal Development__ -- I consider myself a constantly evolving piece of software - continually identifying the bugs and feature implementations I can add to myself and the million things I have yet to learn. Reid Hoffman terms this state “permanent beta”, which I *entirely* identify with.
+While at university, I double majored, double minored, though mostly focused on economics and computer science. 
 
-Sometimes a feature gets added and the whole thing blows up (cue Stack Overflow), but for the most part, it’s worked out pretty well. I can't imagine not being obsessed about personal development, what I can learn, and how I can improve; it comes with its ups and downs but for the most part, I'm incredibly proud of how far I've come and more importantly, how much further I have to go from here.
+### Year Off
 
-__Optimizing / Engineering Life__ . . .as opposed to simply letting it happen.
+After 16 years of trying _way_ too hard, I decided to defer my job offer and take a year off to focus on self-developmental goals other than pure academics, including:
+* Solo-backpacking 30 countries
+* Vipassana 10-day, 10 hr/day meditation course
+* Fitness (Insanity/P90x)
+* Entrepreurial side hustles
 
-__Future Plans / Future Trajectory__ . . . or in other words, how to maximize the impact and value I provide in my chosen career path.
+### Microsoft
 
-## Site Origins
+These days I work at Microsoft as a Cloud Infrastructure Consultant -- in other words, serving as a technical resource building cloud infrastructure and automation solutions for Microsoft's enterprise customers. 
 
-In September 2015, I published [The Official Couchsurfing Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"} which went viral within the Couchsurfing community. 
+### Small Business
 
-Now, back to a modest 55 subscribers and 10-20 daily visitors, this site is focused on exploring various life projects - from giving TEDx talks to getting fit. 
-
-Welcome, have fun, and if you see something you like, feel free to email me ({{site.email}})! I love meeting & connecting with people. I live in the San Francisco Bay Area and love meeting people so if you're in the neighborhood, reach out.
+I've always had a deep love of entrepreneurship, growth strategy, and system-building. On the side, I run a small business with ~10 part-time employees and ~30 clients. While I develop my technical skill at Microsoft, this side business has been a fun outlet for that extra, entrepreneurial energy.
 
 
+## Interests
+
+Broadly speaking, I spend a lot of time thinking about ways of improving myself
+
+__Personal Development__ | Broadly speaking, I spend a lot of time thinking about personal development. I consider myself a constantly evolving piece of software - continually identifying the bugs and feature implementations I can add to myself and the million things I have yet to learn. Reid Hoffman terms this state “permanent beta”, which I *entirely* identify with. <br><br>Sometimes a feature gets added and the whole thing blows up (cue Stack Overflow), but for the most part, it’s worked out pretty well. I can't imagine not being obsessed about personal development, what I can learn, and how I can improve; it comes with its ups and downs but for the most part, I'm incredibly proud of how far I've come and more importantly, how much further I have to go from here.
+__Optimizing Processes__ | As opposed to simply continuing with the status quo.
+__Future Plans & Trajectory__ | In other words, how to maximize the impact and value I provide in my chosen career path.

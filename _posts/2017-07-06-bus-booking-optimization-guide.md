@@ -3,7 +3,7 @@ layout: post
 title: "Bus Booking Optimization Guide"
 description: "A guide on how to optimize the bus booking process."
 date: 2014-03-04
-tags: [travel - bus]
+tags: [travel]
 comments: true
 share: true
 f-image: /images/posts/featured/bus.jpg

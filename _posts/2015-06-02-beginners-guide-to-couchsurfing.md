@@ -3,7 +3,7 @@ layout: post
 title: "The Beginner's Guide to Couchsurfing - How to Couchsurf"
 description: "A multi-part guide on how to Couchsurf."
 date: 2018-01-23
-tags: [travel - couchsurfing]
+tags: [travel]
 comments: true
 share: true
 published: true

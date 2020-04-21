@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Too Many Goals? Organizing & Prioritizing Them"
+title: "Goals: A Systematic Approach to Organizing & Prioritizing Them"
 description: "A system to organize macro-level and day-to-day goals within your time constraints."
 date: 2018-01-26
-tags: [productivity]
+tags: [achievement/productivity]
 comments: true
 share: true
 permalink: /goal-organization-guide/

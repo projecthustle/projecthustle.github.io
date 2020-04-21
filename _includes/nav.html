@@ -1,13 +1,25 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
   <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
-  <li class="{% if page.url contains '/archive/' %} active {% endif %}"><a href="{{ "/archive" | absolute_url }}">Archive</a>
+  <li class="{% if page.url contains '/archive/' %} active {% endif %}"><a href="{{ "/archive" | absolute_url }}">Archive</a></li>
   <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
+  <li class="{% if page.url contains '/productivity/' %} active {% endif %}"><a href="{{ "/productivity-guide" | absolute_url }}">Productivity</a></li>
+  <li class="{% if page.url contains '/perspective/' %} active {% endif %}"><a href="{{ "/life-perspective" | absolute_url }}">Perspective</a></li>
+
   <!--
   <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/photos" | absolute_url }}">Photos</a>-->
   <!--<li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/travel" | absolute_url }}">Couchsurfing</a>-->
   <li class="{% if page.url contains '/fitness/' %} active {% endif %}"><a href="{{ "/fitness-tracking" | absolute_url }}">Fitness</a></li>
   <li class="{% if page.url contains '/books/' %} active {% endif %}"><a href="{{ "/books" | absolute_url }}">Books</a></li>
-  <li class="{% if page.url contains '/like/' %} active {% endif %}"><a href="{{ "/subscribe" | absolute_url }}"><font color="#FF7F00">Like This?</font></a></li>
-  </li>
+  
+
+
+  <!--<li class="{% if page.url contains '/like/' %} active {% endif %}"><a href="{{ "/subscribe" | absolute_url }}"><font color="#FF7F00">Like This?</font></a></li>-->
+ 
+</ul>
+
+<ul class="icons">
+  <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow" target="_blank" font color="#FF7F00"><span class="label">Twitter</span></a></li>
+  <li><a href="https://linkedin.com/in/{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow" target="_blank" font color="#FF7F00"><span class="label">LinkedIn</span></a></li>
+  <li><a href="https://facebook.com/{{site.facebook}}" font color="#FF7F00" class="icon fa-facebook" rel="nofollow" target="_blank"><span class="label">Facebook</span></a></li>
 </ul>

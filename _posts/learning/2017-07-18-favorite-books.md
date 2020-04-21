@@ -3,7 +3,7 @@ layout: post
 title: "Book Tracking & Recommendations"
 description: "A curated list of the books I'd recommend."
 date: 2017-08-04
-tags: [reading]
+tags: [learning]
 comments: true
 share: true
 published: true

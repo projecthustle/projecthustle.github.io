@@ -3,7 +3,7 @@ layout: post
 title: "The Most Useful Productivity Insights I've Come Across"
 description: "A curated list of the best productive tips I've gotten."
 date: 2017-07-18
-tags: [productivity]
+tags: [achievement/productivity]
 comments: true
 share: true
 permalink: /the-most-useful-productivity-insights-ive-come-across

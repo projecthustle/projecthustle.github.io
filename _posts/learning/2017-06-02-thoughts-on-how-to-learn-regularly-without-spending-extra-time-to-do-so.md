@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Learning Regularly Without Spending Extra Time Doing So"
+title: "Learning Regularly Despite a Busy Schedule"
 description: "Learning on busy schedules is actually possible."
 date: 2016-06-19
-tags: [life perspective]
+tags: [learning, achievement/productivity]
 comments: true
 share: true
 published: true
 f-image: /images/posts/featured/learn.jpg
-category: life
+category: productivity
 ---
 
 Below are some of the most useful methods I've come across for learning without devoting too much time to doing so. 

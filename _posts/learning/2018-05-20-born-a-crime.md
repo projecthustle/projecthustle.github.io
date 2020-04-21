@@ -3,7 +3,7 @@ layout: post
 title: "Book Insights & Summary | Born a Crime by Trevor Noah"
 description: ""
 date: 2018-05-11
-tags: [reading]
+tags: [learning]
 comments: true
 share: true
 category: reading

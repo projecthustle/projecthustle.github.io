@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Guide on Organizing Time"
+title: "Time Systems: A Guide on Organizing Time"
 description: "Controlling time & an incredibly busy schedule."
 date: 2018-05-20
-tags: [productivity]
+tags: [achievement/productivity]
 comments: true
 share: true
 category: productivity

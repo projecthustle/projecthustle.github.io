@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parts of Aging You Wish You'd Been Warned About"
+title: "Thoughts on Aging"
 description: Reddit users weigh in on the advice they wish their younger selves had known.
 date: 2018-01-25
 tags: [life perspective]

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Maintaining a Network, Even on a Busy Schedule"
+title: "Keeping in Touch: A Systematic Approach to Maintaining a Network"
 description: "Thoughts on how to keep in touch with friends while being insanely busy."
 date: 2018-01-27
-tags: [relationships, career]
+tags: [achievement/productivity]
 comments: true
 share: true
 published: true
 permalink: /how-to-maintain-your-network-guide/
 f-image: /images/posts/featured/network.jpg
-category: career
+category: productivity
 featured: yes
 
 ---
@@ -162,10 +162,3 @@ As you can see, maintaining relationships for me is no small matter; it’s an a
 
 But it sure as heck pays off; I feel secure, loved, and supported and suffice to say, it's been very much well worth the effort =)
 
----
-
-__Other Posts in the Career Guide:__
-* _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
-* _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})_
-* _[6 Ways Advice To 'Follow Your Passion' Falls Short For Millenials]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
-* _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_

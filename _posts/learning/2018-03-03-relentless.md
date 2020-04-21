@@ -3,7 +3,7 @@ layout: page
 title: "Book Insights & Summary | Relentless: From Good to Great to Unstoppable"
 description: ""
 date: 2018-05-09
-tags: [reading]
+tags: [learning]
 comments: true
 share: true
 category: reading

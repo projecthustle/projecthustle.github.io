@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Accountability Theory - Getting Stuff Done Despite Little Motivation"
+title: "Accountability Theory: Getting Stuff Done Despite Little Motivation"
 description: "A guide on getting things done when you have little motivation to do them."
 date: 2018-01-27
-tags: [productivity]
+tags: [achievement/productivity]
 comments: true
 share: true
 category: productivity

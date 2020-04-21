@@ -3,7 +3,7 @@ layout: post
 title: "The 999th Productivity Guide The Internet Has But Never Wanted"
 description: "The most comprehensive productivity guide you'll come across on the interwebs."
 date: 2018-01-24
-tags: [productivity]
+tags: [achievement/productivity]
 comments: true
 share: true
 category: productivity
@@ -13,22 +13,23 @@ featured: yes
 
 ---
 
+## What this guide is 
+This guide has 4 parts. Jump around to what's most useful for you. 
+
+* <b>[Accountability Theory: Getting Stuff Done Despite Little Motivation]({% post_url 2017-08-11-getting-stuff-done-when-you-have-no-motivation %}){:target="_blank"}</b> --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
+* <b>[Organizing Time](#time-organization-guide){:target="_blank"}</b> --- time & scheduling.
+* <b>[Goals: A Systematic Approach to Organizing & Prioritizing Them](#goal-organization-guide){:target="_blank"}</b> --- a system to organize macro-level and day-to-day goals within your time constraints.
+* <b>[Note Organization: A Systematic Approach to Organize the Million Notes You Have]({% post_url 2017-08-10-note-organization-guide %}){:target="_blank"}</b> --- how to actually organize the million notes you have.
+* <b>[The Most Useful Productivity Insights I've Come Across]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"}</b> --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
+
+
+## Introduction
 If you're the type of person who gets an idea and actually has the willpower/internal motivation/discipline to get it done ---- then great! You can X right out of this guide because you really don't need it. 
 
 But if you're someone like me, who has a TON of projects and ideas but often little motivation to follow through and actually _do_ them, then this guide is for you. 
 
 I generally have a ton of projects I love the _idea_ of doing, but on a day-to-day implementation level, have little motivation to follow through. In those cases, I use the system below to get around that. This includes doing the hardest intro to coding course, [Harvard's CS 50](https://cs50.harvard.edu/){:target="_blank"} as a side project while doing a full courseload at Oxford University, waking up at 8:30 am on average in college despite having a natural tendency to wake up at 11 am, and following through on a bunch of side projects (like this blog!). 
 
-## What this guide is 
-This guide has 4 parts. Jump around to what's most useful for you. 
-
-* _Part 1: Getting Stuff Done When You Have No Motivation To Do Them --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done._
-* Part 2: [Time Organization Guide](#time-organization-guide) --- the ultimate guide on organizing time.
-* Part 3: [Too Many Goals? Organizing & Prioritizing Them](#goal-organization-guide) --- a system to organize macro-level and day-to-day goals within your time constraints.
-* Part 4: [The Most Useful Productivity Insights I've Come Across]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
-* Part 5: [The Note Organization Guide]({% post_url 2017-08-10-note-organization-guide %}){:target="_blank"} --- how to actually organize the million notes you have.
-
-I'm also going to temporarily invent the word _'unproductivity'_, because it's not a word when it really should be 😛. 
 
 ## What this guide isn't
 

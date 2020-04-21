@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Note Organization Guide - Organizing the Million Notes You Have"
+title: "Note Organization: A Systematic Approach to Organize the Million Notes You Have"
 description: "The best under-10-second note retrieval & organization system that's worked for me so far."
 date: 2018-01-28
-tags: [productivity]
+tags: [achievement/productivity]
 comments: true
 share: true
 f-image: /images/posts/featured/notes.jpg

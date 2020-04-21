@@ -77,9 +77,7 @@ This is a philosophy I live by.
 I take a goal I want to achieve, craft it into a fun, boundary-pushing project and push myself to finish it over some set interval of time. It’s led to some pretty awesome achievements (emotional resilience development, becoming a technologist, solo-backpacking 30+ countries, becoming fit, giving a TEDx talk) but most importantly, it's given me a framework that makes goal achievement actually fun and easy.
 <br></br>
 
-If you like this theory and are interested in learning how to apply it to your life to achieve certain goals, I'm in the midst of writing a piece on that - available <a href="http://eepurl.com/dtd9y1" target="_blank">here</a>. 
-
-Otherwise, below are some of the projects & challenges I’ve worked on. Enjoy! 
+Below are some of the projects & challenges I’ve worked on. Enjoy and feel free to reach out and say hi! 
 
 </div>
 
@@ -94,8 +92,8 @@ Otherwise, below are some of the projects & challenges I’ve worked on. Enjoy!
 			<!-- CATEGORY ORDER MANUALLY SPECIFIED WITH POSTS & DESCRIPTIONS LISTED UNDERNEATH -->
 			<section class="posts">
 				{% assign mod2 = forloop.index | modulo: 2 %}
-
-				<!-- CATEGORY | COUCHSURFING -->
+			<!--
+				CATEGORY | COUCHSURFING 
 				<article align="left">
 					<header>
 						<h2 class="category-head">Project: Couchsurfing</h2>
@@ -105,14 +103,25 @@ Otherwise, below are some of the projects & challenges I’ve worked on. Enjoy!
 					 	<li align="left" style="font-size:14px">&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 						{% endfor %}
 				</article>
+			-->
+				<!-- CATEGORY | PRODUCTIVITY -->
+				<article align="left">
+					<header>
+						<h2 class="category-head">Project: Productivity</h2>
+						<p>Efficient systems which have worked well for me.</p>		
+					</header>
+						{% for post in site.categories.productivity %}
+					 	<li align="left" style="font-size:14px">&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+						{% endfor %}
+				</article>	
 
 				<!-- CATEGORY | TRAVEL -->
 				<article align="left">
 					<header>
 						<h2 class="category-head">Project: Travel</h2>
-						<p>Thoughts on traveling 6 Continents & 30 countries, for virtually no money.</p>		
+						<p>Thoughts on solo-backpacking 6 continents and 30 countries on a budget.</p>		
 					</header>
-						{% for post in site.categories.travel %}
+						{% for post in site.tags.travel %}
 					 	<li align="left" style="font-size:14px">&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 						{% endfor %}
 				</article>
@@ -143,14 +152,14 @@ Otherwise, below are some of the projects & challenges I’ve worked on. Enjoy!
 				<article align="left">
 					<header>
 						<h2 class="category-head">Project: Reading</h2>
-						<p>I usually read 2-4 books a month and have recently started writing lessons learned from them. These are 5 minute insights from top non-fiction literature.</p>		
+						<p>Insights from a handful of non-fiction books.</p>		
 					</header>
-						{% for post in site.categories.reading %}
+						{% for post in site.tags.learning %}
 					 	<li align="left" style="font-size:14px">&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 						{% endfor %}
 				</article>
 
-				<!-- CATEGORY | POST GRAD CAREER -->
+			<!-- CATEGORY | POST GRAD CAREER 
 				<article align="left">
 					<header>
 						<h2 class="category-head">Project: Post-Grad Career</h2>
@@ -160,17 +169,7 @@ Otherwise, below are some of the projects & challenges I’ve worked on. Enjoy!
 					 	<li align="left" style="font-size:14px">&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 						{% endfor %}
 				</article>
-
-				<!-- CATEGORY | PRODUCTIVITY -->
-				<article align="left">
-					<header>
-						<h2 class="category-head">Project: Productivity</h2>
-						<p>Efficient time use is something I've always thought about and focused on improving. These are systems I use which have worked super well for me.</p>		
-					</header>
-						{% for post in site.categories.productivity %}
-					 	<li align="left" style="font-size:14px">&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-						{% endfor %}
-				</article>	
+			-->
 
 				<!-- CATEGORY | LIFE -->
 				<article align="left">
