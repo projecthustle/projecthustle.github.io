@@ -12,7 +12,7 @@ permalink: /car/
 category: productivity
 ---
 
-[Here](https://docs.google.com/spreadsheets/d/1vybhNtZk_Sz-jh9-NpJ7mi3c7d9Xn0_McAd9qwHbH2o/edit#gid=868590249), you can find a link to a set of templates to calculate: 
+<a href="https://docs.google.com/spreadsheets/d/1vybhNtZk_Sz-jh9-NpJ7mi3c7d9Xn0_McAd9qwHbH2o/edit#gid=868590249" target="_blank">Here</a>, you can find a link to a set of templates to calculate: 
 * How much you'll save or spend, upgrading to a new car, compared to your old car
 * A template for contacting dealerships
 * Multiple analysis formats you can use to decide whether to upgrade your car or not
