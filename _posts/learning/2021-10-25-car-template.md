@@ -8,6 +8,7 @@ comments: true
 share: true
 published: true
 f-image: /images/posts/featured/learn.jpg
+permalink: /car/
 category: productivity
 ---
 
