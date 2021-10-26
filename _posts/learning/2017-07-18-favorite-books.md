@@ -75,21 +75,3 @@ category: reading
 * Why We Get Fat
 * Willpower Instinct
 * Yes, Please
-
-## The Favorites
-
-As you can tell, I read a ton of non-fiction. Of the list above, my favorites are: 
-
-* Give and Take
-
-* Steve Jobs' Autobiography
-
-* The Charisma Myth
-
-* Lean In 
-
-* The Subtle Art of Not Giving a Fuck
-
-* Why Marriages Succeed and Fail
-
-
